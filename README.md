@@ -1,3 +1,3 @@
-# Disease_prediction
+# Disease Prediction
 
-Predicting the disease using supervised machine learning models
+  This project aims to predict the disease on the basis of the symptoms. The project is designed in such a way that the system takes symptoms from the user as input and produces output i.e. predict disease. A Machine Learning Decision tree algorithm, Random Forest Algorithm, Naïve Bayes classifier is used for prediction by using structured and unstructured data from hospital. The accuracies observed by the algorithms are 76.84% by decision tree, 83.47% by Random forest, 89.93% by Naïve Bayes. Among all the algorithms, Naïve Bayes Classifier is giving the best accuracy among the three algorithms.
